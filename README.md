@@ -309,16 +309,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer**: [Your Name]
-- 📧 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐙 **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+**Project Maintainer**: [Arindam Bhunia]
+- 📧 **Email**: arindam.bhunia.phy@gmail.com
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/arindam-bhunia/](https://www.linkedin.com/in/arindam-bhunia/))
+- 🐙 **GitHub**: [https://github.com/arindam-bhunia/](https://github.com/arindam-bhunia/)
 
-## 🔗 Related Projects
-
-- [Healthcare Cost Analysis](https://github.com/yourusername/healthcare-analysis)
-- [Risk Assessment Models](https://github.com/yourusername/risk-models)
-- [Insurance Analytics Dashboard](https://github.com/yourusername/insurance-dashboard)
 
 ---
 
