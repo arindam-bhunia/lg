@@ -16,8 +16,6 @@ A comprehensive linear regression analysis to predict insurance costs based on c
 - [Usage](#usage)
 - [Model Performance](#model-performance)
 - [Key Insights](#key-insights)
-- [Project Structure](#project-structure)
-- [Visualizations](#visualizations)
 - [Business Applications](#business-applications)
 - [Contributing](#contributing)
 - [License](#license)
@@ -111,43 +109,6 @@ The dataset contains **1,002 insurance records** with the following features:
 3. **⚖️ BMI impacts costs** - Higher BMI correlates with higher insurance costs
 4. **👨‍👩‍👧‍👦 Family size affects premiums** - More children = higher costs
 5. **🌍 Geographic and gender differences are minimal**
-
-## 📁 Project Structure
-
-```
-insurance-cost-prediction/
-│
-├── 📊 Insurance_dataset.csv                    # Raw dataset
-├── 📓 insurance_linear_regression_analysis.ipynb  # Main analysis notebook
-├── 📋 README.md                               # Project documentation
-├── 📄 LICENSE                                 # MIT License
-└── 📸 images/                                 # Visualization outputs
-    ├── correlation_heatmap.png
-    ├── actual_vs_predicted.png
-    ├── residuals_analysis.png
-    └── feature_importance.png
-```
-
-## 📊 Visualizations
-
-The notebook includes comprehensive visualizations:
-
-### 1. Exploratory Data Analysis
-- **Distribution plots** showing insurance cost patterns
-- **Box plots** comparing costs across categorical variables
-- **Scatter plots** revealing relationships between numerical features
-- **Correlation heatmaps** identifying feature relationships
-
-### 2. Model Performance
-- **Actual vs Predicted plots** for both training and test sets
-- **Residuals analysis** to validate model assumptions
-- **Feature importance charts** showing coefficient magnitudes
-- **Error distribution plots** for prediction accuracy assessment
-
-### 3. Business Intelligence
-- **Cost impact analysis** by customer segments
-- **Risk factor visualization** for underwriting decisions
-- **Premium calculation examples** for different profiles
 
 ## 💼 Business Applications
 
